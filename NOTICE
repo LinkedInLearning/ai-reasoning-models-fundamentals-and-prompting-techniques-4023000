@@ -5,7 +5,25 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+requests
+[https://github.com/psf/requests](https://github.com/psf/requests)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
+python-dotenv
+[https://github.com/theskumar/python-dotenv](https://github.com/theskumar/python-dotenv)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+openai
+[https://github.com/openai/openai-python](https://github.com/openai/openai-python)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
